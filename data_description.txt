@@ -18,7 +18,7 @@ hemo -haemoglobin
 pcv -packed cell volume
 wc -white blood cell count
 rc -red blood cell count
-htn -ypertension
+htn -hypertension
 dm -diabetes mellitus
 cad -coronary artery disease
 appet -appetite
